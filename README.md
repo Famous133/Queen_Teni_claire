@@ -120,21 +120,6 @@ Contact Developer on [telgram](https://t.me/Tickic).
 2. Edit `config.env`.
 3. Click run.
    
-### 3.RUN ON TERMUX
-```
-apt upgrade
-pkg update && pkg upgrade
-pkg install bash
-pkg install libwebp
-pkg install git -y
-pkg install nodejs -y 
-pkg install imagemagick -y
-git clone https://github.com/Veran737/Queen_Teni_claire
-cd Queen-Teni_claire
-npm install
-npm start
-```
-
 
 **2. Deploy steps.**
  - _Fork queen teni_claire repository._
@@ -171,6 +156,22 @@ npm start
 ## Watch Youtube videos.
 <a href = "#"> <img src = "/repo-data/yt videos button.svg" width="150" height="70" > </a>
 </br>
+
+### 3.RUN ON TERMUX
+```
+apt upgrade
+pkg update && pkg upgrade
+pkg install bash
+pkg install libwebp
+pkg install git -y
+pkg install nodejs -y 
+pkg install imagemagick -y
+git clone https://github.com/Veran737/Queen_Teni_claire
+cd Queen-Teni_claire
+npm install
+npm start
+```
+
 ## Support
 
 If you need help, Join queen teni_claire WhatsApp channel
