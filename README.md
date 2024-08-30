@@ -172,6 +172,13 @@ npm install
 npm start
 ```
 
+
+## 🔗 Contact Links
+[![NIMAYT](https://img.shields.io/badge/FOLLOW%20ELISACODERS%20ON%20WHATSAPP-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/ybhee3)</br>
+[![tg](https://img.shields.io/badge/elisacoders-0A66C2?style=for-the-badge&logo=telegram&logoColor=white)]( https://t.me/Tickic)
+</br>
+
+
 ## Support
 
 If you need help, Join queen teni_claire WhatsApp channel
