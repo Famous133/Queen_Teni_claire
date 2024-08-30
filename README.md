@@ -52,7 +52,8 @@ Contact Developer on [telgram](https://t.me/Tickic).
  - _Deploy using your host._
    </br>
 ## 1. FORK REPOSITORY
-<a href = "https://github.com/Veran737/Queen_Teni_claire/forks"> <img src = "/repo-data/fork-teni_claire-repo-button.svg" height="250" > </a>
+<a href = "https://github.com/Veran737/Queen_Teni_claire/forks"> <img src = "/repo-data/fork-teni_claire-repo-button.svg" width"120"
+height="250" > </a>
 </br>
 ## Setup
 
