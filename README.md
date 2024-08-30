@@ -1,7 +1,7 @@
 # QUEEN TENI_CLAIRE 
 <p align="centre">
   <a href="QUEEN TENI_CLAIRE MD
-    <img alt="QUEEN TENI_CLAIRE" height="300" src="./lib/assets/pk.jpg" old_src=https://telegra.ph/file/e9170aee5696fbe1bf695.jpg
+    <img alt="QUEEN TENI_CLAIRE" height="300" src="./lib/assets/pk.jpg" old_src=https://telegra.ph/file/cb2a1137d8b27869a814f.jpg
     </a>
 </p>
 
@@ -9,7 +9,7 @@
   <p align="center">
 
   <a aria-label="Join our chats" href="https://t.me/Tickic" target="_blank">
-<img src="https://telegra.ph/file/e9170aee5696fbe1bf695.jpg">
+<img src="https://telegra.ph/file/cb2a1137d8b27869a814f.jpg">
 </a>
   
 
