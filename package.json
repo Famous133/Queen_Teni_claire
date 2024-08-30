@@ -1,7 +1,7 @@
 {
-  "name": "QUEEN_TENI_CLAIRE-md",
-  "version": "1.0.0",
-  "description": "QUEEN_TENI_CLAIRE Automated whatsapp md bot created by mr veranmaina using nodejs and baileys lib",
+  "name": "queen-elisa-md",
+  "version": "4.0.1",
+  "description": "Queen Elisa Automated whatsapp md bot created by mr nima using nodejs and baileys lib",
   "main": "start.js",
   "directories": {
     "lib": "lib"
@@ -11,20 +11,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Veran737/Queen_Teni_claire"
+    "url": "git+https://github.com/darkmakerofc/QUEEN-ELISA-MD.git"
   },
   "keywords": [
     "queen",
-    "Teni claire",
+    "elisa",
     "whatsapp",
-    "mrveranmaina",
+    "mrnima",
     "automate",
     "baileys",
     "wa-web",
     "speed",
     "2024"
   ],
-  "author": "darkmakerofc (mrveranmaina)",
+  "author": "darkmakerofc (mrnima)",
   "license": "AGPL-3.0-or-later",
   "dependencies": {
     "@bochilteam/scraper": "^4.2.4",
@@ -64,7 +64,7 @@
     "yt-search": "^2.10.4"
   },
   "bugs": {
-    "url": "https://github.com/Veran737/Queen_Teni_claire"
+    "url": "https://github.com/darkmakerofc/QUEEN-ELISA-MD/issues"
   },
-  "homepage": "https://github.com/Veran737/Queen_Teni_claire#readme"
+  "homepage": "https://github.com/darkmakerofc/QUEEN-ELISA-MD#readme"
 }
