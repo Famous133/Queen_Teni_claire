@@ -18,7 +18,7 @@ module.exports = {
 ☫ Work Type : @worktype
 
 Qᴜᴇᴇɴ Teni_claire ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
-  ALIVE_MEDIA: 'https://telegra.ph/file/9bc74196c4f3615d8a14f.mp4',
+  ALIVE_MEDIA: 'https://telegra.ph/file/f38fbffded4d19edd4334.mp4',
   MONGODB_URL: '', 
   PREFIX: '.$&',
   LANGUAGE: 'EN',
@@ -70,7 +70,7 @@ Qᴜᴇᴇɴ Teni_claire ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
       '❌ My owner has activated auto inbox blocking. So you will be auto blocked after 8 seconds'
   },
   BOT_RULES:
-    "*⚖️ 𝚀𝚄𝙴𝙴𝙽 𝙴𝙻𝙸𝚂𝙰 𝙱𝙾𝚃 𝚁𝚄𝙻𝙴𝚂 ⚖️*\n\n☫ Don't spam messages.\n☫ Don't add groups without asking owner.\n"
+    "*⚖️ 𝚀𝚄𝙴𝙴𝙽 TENI_CLAIRE 𝙱𝙾𝚃 𝚁𝚄𝙻𝙴𝚂 ⚖️*\n\n☫ Don't spam messages.\n☫ Don't add groups without asking owner.\n"
 }
 
 let file = require.resolve(__filename)
