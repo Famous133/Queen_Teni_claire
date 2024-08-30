@@ -126,7 +126,7 @@ Contact Developer on [telgram](https://t.me/Tickic).
  - _Open settings.js on your forked repository. and put `SESSION_ID` and `MONGODB_URL` and change other settings you need._
  - _Deploy using your host._
    </br>
-## 1. FORK REPOSITORY
+## 3. FORK REPOSITORY
 <a href = "https://github.com/Veran737/Queen_Teni_claire/forks"> <img src = "https://telegra.ph/file/1f680b270c20b41cbbbb1.jpg" height="300" > </a>
 </br>
 
@@ -153,7 +153,7 @@ Contact Developer on [telgram](https://t.me/Tickic).
 
 
 
-### 3.RUN ON TERMUX
+## 4.RUN ON TERMUX
 ```
 apt upgrade
 pkg update && pkg upgrade
