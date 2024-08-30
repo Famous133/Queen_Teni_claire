@@ -120,5 +120,28 @@ cd Queen-Teni_claire-Md
 npm install
 npm start
 
-GET SESSION ID ```
+
+**2. Deploy steps.**
+ - _Fork queen teni_claire repository._
+ - _Link with yoour whatsappp using Scan qr code or pair code._
+ - _Open settings.js on your forked repository. and put `SESSION_ID` and `MONGODB_URL` and change other settings you need._
+ - _Deploy using your host._
+   </br>
+## 1. FORK REPOSITORY
+<a href = "https://github.com/darkmakerofc/QueenElisa/fork"> <img src = "/repo-data/fork-elisa-repo-button.svg" width="150" height="70" > </a>
+</br>
+
+## 2. GET SESSION ID
+<!--
+<a href = "https://gpt-qr-code.onrender.com/elisa"> <img src = "/repo-data/elisa scan qr code.svg" width="150" height="70" > </a></br>
+    OR   
+<a href = "https://queen-elisa-qr-pair.onrender.com/"> <img src = "/repo-data/elisa pair code.svg" width="150" height="70" > </a>
+</br>
+    OR
+    -->
 [`TELEGRAM BOT`](https://t.me/queen_elisa_pair_bot)
+
+## Support
+If you need help, Join queen teni_claire WhatsApp channel
+[https://whatsapp.com/channel/0029VaiNH4KGpLHHUF2ex903](https://whatsapp.com/channel/0029VaiNH4KGpLHHUF2ex903)
+</br></br></br>
