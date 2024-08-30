@@ -1,11 +1,11 @@
 {
-    "name": "QUEEN_TENI_CLAIRE-MD",
+    "name": "QUEEN_TENI_CLAIRE",
     "description": "Queen Teni_claire Whatsapp Bot By Annabelle. You Must Fill This form for deploy bot !",
     "repository": "https://github.com/Veran737/Queen_Teni_claire",
     "keywords": [
         "nodejs",
         "Bot",
-        "WhatsApp QUEEN_TENI_CLAIRE-MD Bot"
+        "WhatsApp QUEEN_TENI_CLAIRE Bot"
     ],
     "env": {
         "SESSION_ID": {
