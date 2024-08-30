@@ -107,6 +107,9 @@
    
 ### 3.RUN ON TERMUX
 
+
+
+
 apt update
 apt upgrade
 pkg update && pkg upgrade
