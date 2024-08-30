@@ -13,7 +13,10 @@
 </a>
   
 
-<p align="center"> Meet QUEEN TENI_CLAIRE, Your All-in-One WhatsApp Excitement Buddy! Enjoy a thrilling messaging experience like never before.QUEEN TENI_CLAIRE bot brings a world of excitement and joy to your chats. Express yourself with unique flair and add a touch of excitement to every conversation. ✨🤖 </p.
+<p align="center"> Meet QUEEN TENI_CLAIRE, Your All-in-One WhatsApp Excitement Buddy! Enjoy a thrilling messaging experience like never before.QUEEN TENI_CLAIRE bot brings a world of excitement and joy to your chats. Express yourself with unique flair and add a touch of excitement to every conversation. ✨🤖 </p.We are not responsible for any problems caused by your use of this!
+[Contact the support group](https://t.me/queenelisasupport) for any issues that arise during the bot creation process.
+And Follow veran maina and give one star for queen teni_claire. 
+Contact Developer on [Discord](https://discord.com/invite/ZDP9PNrX).
 
 ## Setup
 
