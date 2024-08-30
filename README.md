@@ -15,6 +15,15 @@
 </p>
     <p align="center">
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-Veranmaina-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Veran737/Queen_Teni_claire/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Veran737/Queen Teni_claire?color=white&style=flat-square"></a>
+<a href="https://github.com/Veran737/Queen_Teni_claire/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Veran737/Queen Teni_claire?color=yellow&style=flat-square"></a>
+<a href="https://github.com/Veran737/Queen_Teni_claire/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Veran737/Queen Teni_claire?label=Watchers&color=red&style=flat-square"></a>
+<a href="https://github.com/Veran737/Queen_Teni_claire"><img title="Size" src="https://img.shields.io/github/repo-size/Queen Teni_claire?style=flat-square&color=darkred"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Veran737/Queen_Teni_claire/hit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2304FF00&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/Veran737/Queen_Teni_claire/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-No-red.svg"></a>&nbsp;&nbsp;
+</p>
+</a>
+</div>
   
 QUEEN_TENI_CLAIRE, Your All-in-One WhatsApp Excitement Buddy! Enjoy a thrilling messaging experience like never before.QUEEN TENI_CLAIRE bot brings a world of excitement and joy to your chats. Express yourself with unique flair and add a touch of excitement to every conversation. ✨🤖 </p.We are not responsible for any problems caused by your use of this
 [Join the WhatsApp channel](https://whatsapp.com/channel/0029VaiNH4KGpLHHUF2ex903) for any issues that arise during the bot creation process.
