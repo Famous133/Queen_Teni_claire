@@ -128,14 +128,14 @@ npm start
  - _Deploy using your host._
    </br>
 ## 1. FORK REPOSITORY
-<a href = "https://github.com/darkmakerofc/QueenElisa/fork"> <img src = "https://telegra.ph/file/dd6cf9676059730c8bbdf.jpg" width="150" height="70" > </a>
+<a href = "https://github.com/darkmakerofc/QueenElisa/fork"> <img src = "https://telegra.ph/file/cdfdcc7c8d60bb4366ab6.jpg" height="300" > </a>
 </br>
 
 ## 2. GET SESSION ID
 <!--
 <a href = "https://gpt-qr-code.onrender.com/elisa"> <img src = "https://telegra.ph/file/cdfdcc7c8d60bb4366ab6.jpg" width="150" height="70" > </a></br>
     OR   
-<a href = "https://queen-elisa-qr-pair.onrender.com/"> <img src = "/repo-data/elisa pair code.svg" width="150" height="70" > </a>
+<a href = "https://queen-elisa-qr-pair.onrender.com/"> <img src = "/repo-data/elisa pair code.svg" width="150" height="300" > </a>
 </br>
     OR
     -->
