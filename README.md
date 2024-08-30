@@ -105,7 +105,7 @@
 2. Edit `config.env`.
 3. Click run.
    
-###Run On termux
+### 3.RUN ON TERMUX
 
 apt update
 apt upgrade
