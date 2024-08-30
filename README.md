@@ -116,7 +116,7 @@ pkg install git -y
 pkg install nodejs -y 
 pkg install imagemagick -y
 git clone https://github.com/Veran737/Queen_Teni_claire/tree/main
-cd Queen-Teni_claire-Md
+cd Queen_Teni_claire
 npm install
 npm start
 
