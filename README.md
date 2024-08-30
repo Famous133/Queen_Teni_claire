@@ -10,6 +10,8 @@
   <a aria-label="Join our chats" href="https://t.me/Tickic" target="_blank">
 <img src="https://telegra.ph/file/cb2a1137d8b27869a814f.jpg">
 </a>
+
+  <a href="https://github.com/Veran737/Queen_Teni_claire"><img title="Size" src="https://img.shields.io/github/repo-size/Veran737/Queen Teni_claire?style=flat-square&color=darkred"></a>
   
 QUEEN_TENI_CLAIRE, Your All-in-One WhatsApp Excitement Buddy! Enjoy a thrilling messaging experience like never before.QUEEN TENI_CLAIRE bot brings a world of excitement and joy to your chats. Express yourself with unique flair and add a touch of excitement to every conversation. ✨🤖 </p.We are not responsible for any problems caused by your use of this
 [Join the WhatsApp channel](https://whatsapp.com/channel/0029VaiNH4KGpLHHUF2ex903) for any issues that arise during the bot creation process.
