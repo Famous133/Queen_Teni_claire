@@ -143,7 +143,7 @@ npm start
 
 ## Support
 
-img src="https://telegra.ph/file/63c5bc22e8bedfd62e209.jpg"
+<img src= "https://telegra.ph/file/63c5bc22e8bedfd62e209.jpg"
 If you need help, Join queen teni_claire WhatsApp channel
 [https://whatsapp.com/channel/0029VaiNH4KGpLHHUF2ex903](https://whatsapp.com/channel/0029VaiNH4KGpLHHUF2ex903)
 </br></br></br>
