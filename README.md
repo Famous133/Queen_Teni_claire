@@ -123,8 +123,7 @@ Contact Developer on [telgram](https://t.me/Tickic).
 3. Click run.
    
 ### 3.RUN ON TERMUX
-
-apt update
+```
 apt upgrade
 pkg update && pkg upgrade
 pkg install bash
@@ -132,10 +131,11 @@ pkg install libwebp
 pkg install git -y
 pkg install nodejs -y 
 pkg install imagemagick -y
-git clone https://github.com/Veran737/Queen_Teni_claire/tree/main
-cd Queen_Teni_claire
+git clone https://github.com/Veran737/Queen_Teni_claire
+cd Queen-Teni_claire
 npm install
 npm start
+```
 
 
 **2. Deploy steps.**
