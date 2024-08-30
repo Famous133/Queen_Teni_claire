@@ -132,24 +132,24 @@ Contact Developer on [telgram](https://t.me/Tickic).
 
 ## 2. GET SESSION ID
 <!--
-<a href = "https://gpt-qr-code.onrender.com/elisa"> <img src ="https://telegra.ph/file/cdfdcc7c8d60bb4366ab6.jpg"height="290" > </a></br>
+<a href = "https://gpt-qr-code.onrender.com/Teni_claire"> <img src ="https://telegra.ph/file/cdfdcc7c8d60bb4366ab6.jpg"height="290" > </a></br>
     OR   
-<a href = "https://queen-elisa-qr-pair.onrender.com/"> <img src = "/repo-data/elisa pair code.svg" width="150" height="300" > </a>
+<a href = "https://queen-Teni_claire-qr-pair.onrender.com/"> <img src = "/repo-data/elisa pair code.svg" width="150" height="300" > </a>
 </br>
     OR
     -->
 [`TELEGRAM BOT`](https://t.me/queen_elisa_pair_bot)
 
 ## Deploy.
- [![nima](https://img.shields.io/badge/elisa_deploy_on_heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&buttcode=1n2i3m4a)](https://heroku.com/deploy?template=https://github.com/darkmakerofc/QueenElisa)
+ [![nima](https://img.shields.io/badge/Teniclaire_deploy_on_heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&buttcode=1n2i3m4a)](https://heroku.com/deploy?template=https://github.com/darkmakerofc/QueenElisa)
   
-[![nima](https://img.shields.io/badge/elisa_deploy_on_railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white&buttcode=1n2i3m4a)](https://railway.app?referralCode=queen-elisa)
+[![nima](https://img.shields.io/badge/Teniclaire_deploy_on_railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white&buttcode=1n2i3m4a)](https://railway.app?referralCode=queen-elisa)
    
-[![nima](https://img.shields.io/badge/elisa_deploy_on_replit-F26207?style=for-the-badge&logo=replit&logoColor=white&buttcode=1n2i3m4a)](https://replit.com/)
+[![nima](https://img.shields.io/badge/Teniclaire_deploy_on_replit-F26207?style=for-the-badge&logo=replit&logoColor=white&buttcode=1n2i3m4a)](https://replit.com/)
    
-[![nima](https://img.shields.io/badge/elisa_deploy_on_render-000000?style=for-the-badge&logo=render&logoColor=white&buttcode=1n2i3m4a)](https://docs.render.com/free)
+[![nima](https://img.shields.io/badge/Teniclaire_deploy_on_render-000000?style=for-the-badge&logo=render&logoColor=white&buttcode=1n2i3m4a)](https://docs.render.com/free)
 
-[![nima](https://img.shields.io/badge/elisa_deploy_on_toystalk-000000?style=for-the-badge&logo=render&logoColor=white&buttcode=1n2i3m4a)](https://toystack.ai)
+[![nima](https://img.shields.io/badge/Teniclaire_deploy_on_toystalk-000000?style=for-the-badge&logo=render&logoColor=white&buttcode=1n2i3m4a)](https://toystack.ai)
 
 
 
