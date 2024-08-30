@@ -1,0 +1,31 @@
+{
+    "name": "QUEEN_TENI_CLAIRE-MD",
+    "description": "Queen Teni_claire Whatsapp Bot By Annabelle. You Must Fill This form for deploy bot !",
+    "repository": "https://github.com/Veran737/Queen_Teni_claire",
+    "keywords": [
+        "nodejs",
+        "Bot",
+        "WhatsApp QUEEN_TENI_CLAIRE-MD Bot"
+    ],
+    "env": {
+        "SESSION_ID": {
+            "description": "Get using Scan QR Code or Using Pair code.",
+            "required": true
+        },
+        "MONGODB_URL": {
+            "description": "Put Mongodb Database Url for Run Bot",
+            "required": true
+        }
+    },
+    "buildpacks": [
+        {
+            "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+        }
+    ],
+    "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "eco"
+        }
+    }
+}
