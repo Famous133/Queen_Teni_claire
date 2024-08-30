@@ -24,16 +24,37 @@
 </p>
 </a>
 </div>
-  
+
+### Please Read !
 QUEEN_TENI_CLAIRE, Your All-in-One WhatsApp Excitement Buddy! Enjoy a thrilling messaging experience like never before.QUEEN TENI_CLAIRE bot brings a world of excitement and joy to your chats. Express yourself with unique flair and add a touch of excitement to every conversation. ✨🤖 </p.We are not responsible for any problems caused by your use of this
 [Join the WhatsApp channel](https://whatsapp.com/channel/0029VaiNH4KGpLHHUF2ex903) for any issues that arise during the bot creation process.
 And fork this repo and give one star for Queen teni_claire. 
 Contact Developer on [telgram](https://t.me/Tickic).
 [WhatsApp](https://wa.link/ybhee3)
 
+### `VERSION : 1.0.0 - V`
+ `Last Update : ` _2024-08-31_ | [Update Info](/new-update.md)
 
+#### Give One star For Queen Teni_claire and [Follow Me](https://whatsapp.com/channel/0029VaiNH4KGpLHHUF2ex903) 
+
+## How create queen Teni_claire.
+**1. You must need those things before deploy.**
+ - _Github Account._
+   * [![NIMAYT](https://img.shields.io/badge/HOW_TO_MAKE_GITHUB_ACCOUNT-red?style=for-the-badge&logo=youtube&logoColor=white)]([https://youtube.com/@MRNIMAOFC/](https://youtu.be/NZ6oSZfoR88?si=A4ThxQppWddcYZYD))
+ - _mongodb url ( sing up and get mongodb url )_
+   * [![NIMAYT](https://img.shields.io/badge/HOW_TO_MAKE_MONGODB_URL-red?style=for-the-badge&logo=youtube&logoColor=white)]([https://youtube.com/@MRNIMAOFC/](https://youtu.be/FRRQ9l5k5Gs?si=IY_V9qm55-S6ABSG))</br>
+ - _host_
+
+**2. Deploy steps.**
+ - _Fork queen Teni_claire repository._
+ - _Link with yoour whatsappp using Scan qr code or pair code._
+ - _Open settings.js on your forked repository. and put `SESSION_ID` and `MONGODB_URL` and change other settings you need._
+ - _Deploy using your host._
+   </br>
+## 1. FORK REPOSITORY
+<a href = "https://github.com/Veran737/Queen_Teni_claire/forks"> <img src = "/repo-data/fork-teni_claire-repo-button.svg" width="150" height="70" > </a>
+</br>
 ## Setup
-
 
 
 
@@ -75,29 +96,6 @@ Contact Developer on [telgram](https://t.me/Tickic).
    git clone https://github.com/Veran737/Queen_Teni_claire botName
    cd botName
    yarn install
-   ```
-
-6. **Enter Environment Variables:**
-   ```sh
-   echo "SESSION_ID = Session_Id_you_Got_After_Scan_Dont_Add_This_Line_If_You_Can_Scan_From_Terminal_Itself
-   PREFIX = .
-   STICKER_PACKNAME = Queen Teni_claire
-   ALWAYS_ONLINE = false
-   RMBG_KEY = null
-   LANGUAG = en
-   WARN_LIMIT = 3
-   FORCE_LOGOUT = false
-   BRAINSHOP = 159501,6pq8dPiYt7PdqHz3
-   MAX_UPLOAD = 200
-   REJECT_CALL = false
-   SUDO = 989876543210
-   TZ = Asia/Kolkata
-   VPS = true
-   AUTO_STATUS_VIEW = true
-   SEND_READ = true
-   AJOIN = true
-   DISABLE_START_MESSAGE = false
-   PERSONAL_MESSAGE = null" > config.env
    ```
 
  
@@ -158,6 +156,21 @@ npm start
     -->
 [`TELEGRAM BOT`](https://t.me/queen_elisa_pair_bot)
 
+## Deploy.
+ [![nima](https://img.shields.io/badge/elisa_deploy_on_heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&buttcode=1n2i3m4a)](https://heroku.com/deploy?template=https://github.com/darkmakerofc/QueenElisa)
+  
+[![nima](https://img.shields.io/badge/elisa_deploy_on_railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white&buttcode=1n2i3m4a)](https://railway.app?referralCode=queen-elisa)
+   
+[![nima](https://img.shields.io/badge/elisa_deploy_on_replit-F26207?style=for-the-badge&logo=replit&logoColor=white&buttcode=1n2i3m4a)](https://replit.com/)
+   
+[![nima](https://img.shields.io/badge/elisa_deploy_on_render-000000?style=for-the-badge&logo=render&logoColor=white&buttcode=1n2i3m4a)](https://docs.render.com/free)
+
+[![nima](https://img.shields.io/badge/elisa_deploy_on_toystalk-000000?style=for-the-badge&logo=render&logoColor=white&buttcode=1n2i3m4a)](https://toystack.ai)
+
+
+## Watch Youtube videos.
+<a href = "#"> <img src = "/repo-data/yt videos button.svg" width="150" height="70" > </a>
+</br>
 ## Support
 
 If you need help, Join queen teni_claire WhatsApp channel
