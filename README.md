@@ -128,12 +128,12 @@ npm start
  - _Deploy using your host._
    </br>
 ## 1. FORK REPOSITORY
-<a href = "https://github.com/darkmakerofc/QueenElisa/fork"> <img src = "https://telegra.ph/file/cdfdcc7c8d60bb4366ab6.jpg" height="300" > </a>
+<a href = "https://github.com/darkmakerofc/QueenElisa/fork"> <img src = "https://telegra.ph/file/1f680b270c20b41cbbbb1.jpg" height="300" > </a>
 </br>
 
 ## 2. GET SESSION ID
 <!--
-<a href = "https://gpt-qr-code.onrender.com/elisa"> <img src = "https://telegra.ph/file/cdfdcc7c8d60bb4366ab6.jpg" width="150" height="70" > </a></br>
+<a href = "https://gpt-qr-code.onrender.com/elisa"> <img src ="https://telegra.ph/file/cdfdcc7c8d60bb4366ab6.jpg"height="290" > </a></br>
     OR   
 <a href = "https://queen-elisa-qr-pair.onrender.com/"> <img src = "/repo-data/elisa pair code.svg" width="150" height="300" > </a>
 </br>
@@ -142,6 +142,8 @@ npm start
 [`TELEGRAM BOT`](https://t.me/queen_elisa_pair_bot)
 
 ## Support
+
+img src="https://telegra.ph/file/63c5bc22e8bedfd62e209.jpg"
 If you need help, Join queen teni_claire WhatsApp channel
 [https://whatsapp.com/channel/0029VaiNH4KGpLHHUF2ex903](https://whatsapp.com/channel/0029VaiNH4KGpLHHUF2ex903)
 </br></br></br>
