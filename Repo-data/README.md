@@ -1,3 +1,3 @@
 ##### QUEEN TENI_CLAIRE WHATSAPP BOT BY Annabelle 
 
-t.me/Annabelle 
+t.me/Tickic
