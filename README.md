@@ -111,14 +111,26 @@
 
 
 apt update
+
 apt upgrade
+
 pkg update && pkg upgrade
+
 pkg install bash
+
 pkg install libwebp
+
 pkg install git -y
+
 pkg install nodejs -y 
+
 pkg install imagemagick -y
+
 git clone https://github.com/Veran737/Queen_Teni_claire/tree/main
+
 cd Queen-Teni_claire-Md
+
 npm install
+
 npm start
+
