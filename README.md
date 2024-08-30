@@ -153,9 +153,6 @@ Contact Developer on [telgram](https://t.me/Tickic).
 [![nima](https://img.shields.io/badge/elisa_deploy_on_toystalk-000000?style=for-the-badge&logo=render&logoColor=white&buttcode=1n2i3m4a)](https://toystack.ai)
 
 
-## Watch Youtube videos.
-<a href = "#"> <img src = "/repo-data/yt videos button.svg" width="150" height="70" > </a>
-</br>
 
 ### 3.RUN ON TERMUX
 ```
@@ -174,8 +171,8 @@ npm start
 
 
 ## 🔗 Contact Links
-[![NIMAYT](https://img.shields.io/badge/FOLLOW%20ELISACODERS%20ON%20WHATSAPP-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/ybhee3)</br>
-[![tg](https://img.shields.io/badge/elisacoders-0A66C2?style=for-the-badge&logo=telegram&logoColor=white)]( https://t.me/Tickic)
+[![NIMAYT](https://img.shields.io/badge/FOLLOW%20TENICLAIRE%20ON%20WHATSAPP-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/ybhee3)</br>
+[![tg](https://img.shields.io/badge/TENICLAIRE-0A66C2?style=for-the-badge&logo=telegram&logoColor=white)]( https://t.me/Tickic)
 </br>
 
 
