@@ -38,6 +38,10 @@ Contact Developer on [telgram](https://t.me/Tickic).
 #### Give One star For Queen Teni_claire and [Follow Me](https://whatsapp.com/channel/0029VaiNH4KGpLHHUF2ex903) 
 
 
+### 1. FORK THIS REPO
+
+<a href='https://github.com/Veran737/Queen_Teni_claire/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
+
 ## 🔗 Contact Links
 [![NIMAYT](https://img.shields.io/badge/FOLLOW%20TENICLAIRE%20ON%20WHATSAPP-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/ybhee3)</br>
 [![tg](https://img.shields.io/badge/TENICLAIRE-0A66C2?style=for-the-badge&logo=telegram&logoColor=white)]( https://t.me/Tickic)
