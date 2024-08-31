@@ -38,49 +38,6 @@ Contact Developer on [telgram](https://t.me/Tickic).
 #### Give One star For Queen Teni_claire and [Follow Me](https://whatsapp.com/channel/0029VaiNH4KGpLHHUF2ex903) 
 
 
-**2. Deploy steps.**
- - _Fork queen Teni_claire repository._
- - _Link with yoour whatsappp using Scan qr code or pair code._
- - _Open settings.js on your forked repository. and put `SESSION_ID` and `MONGODB_URL` and change other settings you need._
- - _Deploy using your host._
-   </br>
-## 1. FORK REPOSITORY
-<a href = "https://github.com/Veran737/Queen_Teni_claire/fork"> <img src = "/repo-data/fork-teni_claire-repo-button.svg" width="150" height="70" > </a>
-</br>
-
-
-### 2. Deploy on Replit
-
-[![Run on Replit](https://replit.com/badge/github/your-repo-owner/your-repo-name)]()
-
-1. Fork the repository.
-2. Edit `config.env`.
-3. Click run.
-   
-
-**2. Deploy steps.**
- - _Fork queen teni_claire repository._
- - _Link with yoour whatsappp using Scan qr code or pair code._
- - _Open settings.js on your forked repository. and put `SESSION_ID`_
- - _Deploy using your host._
-   </br>
-## 3. FORK REPOSITORY
-<a href = "https://github.com/Veran737/Queen_Teni_claire/forks"> <img src = "https://telegra.ph/file/1f680b270c20b41cbbbb1.jpg" height="300" > </a>
-</br>
-
-## 2. GET SESSION ID
-<!--
-<a href = "https://gpt-qr-code.onrender.com/Teni_claire"> <img src ="https://telegra.ph/file/cdfdcc7c8d60bb4366ab6.jpg"height="290" > </a></br>
-    OR   
-<a href = "https://queen-Teni_claire-qr-pair.onrender.com/"> <img src = "/repo-data/elisa pair code.svg" width="150" height="300" > </a>
-</br>
-
-## Deploy.
-
-
-
-
-
 ## 🔗 Contact Links
 [![NIMAYT](https://img.shields.io/badge/FOLLOW%20TENICLAIRE%20ON%20WHATSAPP-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/ybhee3)</br>
 [![tg](https://img.shields.io/badge/TENICLAIRE-0A66C2?style=for-the-badge&logo=telegram&logoColor=white)]( https://t.me/Tickic)
