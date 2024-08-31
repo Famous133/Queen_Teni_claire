@@ -76,15 +76,6 @@ Contact Developer on [telgram](https://t.me/Tickic).
 </br>
 
 ## Deploy.
- [![nima](https://img.shields.io/badge/Teniclaire_deploy_on_heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&buttcode=1n2i3m4a)](https://heroku.com/deploy?template=https://github.com/darkmakerofc/QueenElisa)
-  
-[![nima](https://img.shields.io/badge/Teniclaire_deploy_on_railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white&buttcode=1n2i3m4a)](https://railway.app?referralCode=queen-elisa)
-   
-[![nima](https://img.shields.io/badge/Teniclaire_deploy_on_replit-F26207?style=for-the-badge&logo=replit&logoColor=white&buttcode=1n2i3m4a)](https://replit.com/)
-   
-[![nima](https://img.shields.io/badge/Teniclaire_deploy_on_render-000000?style=for-the-badge&logo=render&logoColor=white&buttcode=1n2i3m4a)](https://docs.render.com/free)
-
-[![nima](https://img.shields.io/badge/Teniclaire_deploy_on_toystalk-000000?style=for-the-badge&logo=render&logoColor=white&buttcode=1n2i3m4a)](https://toystack.ai)
 
 
 
@@ -99,10 +90,6 @@ Contact Developer on [telgram](https://t.me/Tickic).
 - *In that case, I'm not responsible for banning your account.*
 - *Use Queen_Teni_claire at your own risk by keeping this warning in mind.*
   
-  #### ```VERANMAINA PROFILE VIEWS 🧚```
-![Visitor Count](https://profile-counter.glitch.me/DeeCeeXxx/count.svg)
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ## Community Support
 
