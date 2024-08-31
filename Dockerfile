@@ -6,12 +6,19 @@ RUN apt-get update && \
   imagemagick \
   webp && \
   apt-get upgrade -y && \
+  npm i pm2 -g && \
   rm -rf /var/lib/apt/lists/*
+  
+RUN git clone https://github.com/DeeCeeXxx/Queen_Anita-V2  /root/DeeCeeXxx
+WORKDIR /root/DeeCeeXxx/
+
 
 COPY package.json .
-
-RUN npm install
+RUN npm install pm2 -g
+RUN npm install --legacy-peer-deps
 
 COPY . .
 
-CMD ["node", "."]
+EXPOSE 3000
+
+CMD ["npm","start" ]
