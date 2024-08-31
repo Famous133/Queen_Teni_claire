@@ -46,7 +46,6 @@ Contact Developer on [telgram](https://t.me/Tickic).
  
 <a
 href='https://github.com/Veran737/Queen_Teni_claire/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
-
 <a href="https://replit.com/@veranmaina685/QueenTeniclaire-md-session-generator"><img src="https://img.shields.io/badge/PAIR_CODE-blue" alt="Click Here to Get Pair-Code" width="110"></a>
 <a 
 
