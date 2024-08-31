@@ -15,6 +15,7 @@
 </p>
     <p align="center">
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-Veranmaina-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Veran737?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Veran737?color=red&style=flat-square"></a>   
 <a href="https://github.com/Veran737/Queen_Teni_claire/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Veran737/Queen_Teni_claire?color=white&style=flat-square"></a>
 <a href="https://github.com/Veran737/Queen_Teni_claire/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Veran737/Queen_Teni_claire?color=yellow&style=flat-square"></a>
 <a href="https://github.com/Veran737/Queen_Teni_claire/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Veran737/Queen_Teni_claire?label=Watchers&color=red&style=flat-square"></a>
