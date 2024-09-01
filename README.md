@@ -49,7 +49,7 @@ href='https://github.com/Veran737/Queen_Teni_claire/fork' target="_blank"><img a
 
 <a href="https://replit.com/@veranmaina685/QueenTeniclaire-md-session-generator"><img src="https://img.shields.io/badge/PAIR_CODE-blue" alt="Click Here to Get Pair-Code" width="110"></a>
 
-<h3 align="center"><b>NTEEJ-MD</b> DEPLOYMENT METHODS
+<h3 align="center"><b>QUEEN_TENI_CLAIRE</b> DEPLOYMENT METHODS
 </h3>
 
 <p align="center">
