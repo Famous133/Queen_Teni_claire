@@ -9,8 +9,8 @@ RUN apt-get update && \
   npm i pm2 -g && \
   rm -rf /var/lib/apt/lists/*
   
-RUN git clone https://github.com/Veran737/Queen_Teni_claire  /root/Claire
-WORKDIR /root/Claire/
+RUN git clone https://github.com/Veran737/Queen_Teni_claire  /root/Veran737
+WORKDIR /root/Veran737/
 
 
 COPY package.json .
