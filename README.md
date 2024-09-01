@@ -53,7 +53,7 @@ href='https://github.com/Veran737/Queen_Teni_claire/fork' target="_blank"><img a
 </h3>
 
   <a href="https://dashboard.heroku.com/new?template=https://github.com/Ntee-j01/NTEEJ-MD"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
-<a href="https://venocyber-web01.vercel.app/replit.html"><img src="https://img.shields.io/badge/replit-253c99?style=for-the-badge&logo=replit&logoColor=F26207"></a>
+<a href="https://replit.com/~"><img src="https://img.shields.io/badge/replit-253c99?style=for-the-badge&logo=replit&logoColor=F26207"></a>
 <a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com/Veran737/VERAN&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=2347082664317&env[MONGODB_URI]&&env[OWNER_NAME]=Veranmaina&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=true&env[DISABLE_PM]=false&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=QUEEN_TENI_CLAIRE ᴛᴇᴄʜ&env[STYLE]=0&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=QUEEN_TENI_CLAIRE&env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Africa/Dodoma&name=Veran737&env[KOYEB_NAME]=VERAN737&env[SUDO]=null&env[THUMB_IMAGE]=https://telegra.ph/file/07983fae1f445449d28ec.jpg"><img src="https://img.shields.io/badge/koyeb-033604?style=for-the-badge&logo=koyeb&logoColor=white"></a>
 
 ## 🔗 Contact Links
