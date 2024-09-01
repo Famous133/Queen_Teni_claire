@@ -39,6 +39,16 @@ Contact Developer on [telgram](https://t.me/Tickic).
 #### Give One star For Queen Teni_claire and [Follow Me](https://whatsapp.com/channel/0029VaiNH4KGpLHHUF2ex903) 
 
 
+## QUEEN_TENI_CLAIRE UPDATES
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+---
+1. ***Connect Four Game.***
+2.  ***Tic Tac Toe.***
+3.  ***New menu***
+4.  ***heroku ban fixed***
+5.  ***github deploy added***
+
+
 ### 1. FORK THIS REPO
 ### 2. GET SESSION ID HERE
 
@@ -55,6 +65,9 @@ href='https://github.com/Veran737/Queen_Teni_claire/fork' target="_blank"><img a
   <a href="https://dashboard.heroku.com/new?template=https://github.com/Ntee-j01/NTEEJ-MD"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
 <a href="https://replit.com/~"><img src="https://img.shields.io/badge/replit-253c99?style=for-the-badge&logo=replit&logoColor=F26207"></a>
 <a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com/Veran737/VERAN&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=2347082664317&env[MONGODB_URI]&&env[OWNER_NAME]=Veranmaina&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=true&env[DISABLE_PM]=false&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=QUEEN_TENI_CLAIRE ᴛᴇᴄʜ&env[STYLE]=0&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=QUEEN_TENI_CLAIRE&env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Africa/Dodoma&name=Veran737&env[KOYEB_NAME]=VERAN737&env[SUDO]=null&env[THUMB_IMAGE]=https://telegra.ph/file/07983fae1f445449d28ec.jpg"><img src="https://img.shields.io/badge/koyeb-033604?style=for-the-badge&logo=koyeb&logoColor=white"></a>
+<a href="https://youtu.be/3NdJb6_1cJM"><img src="https://img.shields.io/badge/CodeSpace-green?colorA=%23ff000&colorB=%23017e40&style=for-the-badge&logo=git&logoColor=white"></a>
+</p>
+<p align="center">Need help? please create an <a href="https://github.com/Veran737/Queen_Teni_claire">issue</a></p>
 
 ## 🔗 Contact Links
 [![NIMAYT](https://img.shields.io/badge/FOLLOW%20TENICLAIRE%20ON%20WHATSAPP-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/ybhee3)</br>
@@ -71,3 +84,11 @@ href='https://github.com/Veran737/Queen_Teni_claire/fork' target="_blank"><img a
 If you need help, Join queen teni_claire WhatsApp channel
 [https://whatsapp.com/channel/0029VaiNH4KGpLHHUF2ex903](https://whatsapp.com/channel/0029VaiNH4KGpLHHUF2ex903)
 </br></br></br>
+
+
+### Credits to:
+`much thanks to
+- [`DeeCeeXxx`](https://github.com/DeeCeeXxx) code encryption
+- - [`AstroFx0011`](https://github.com/AstroFx0011) base of the bot
+
+
