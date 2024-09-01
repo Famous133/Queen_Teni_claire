@@ -58,12 +58,17 @@ href='https://github.com/Veran737/Queen_Teni_claire/fork' target="_blank"><img a
 
 ### SERVER 1 ( replit ) 
 <a href="https://replit.com/@veranmaina685/QueenTeniclaire-md-session-generator"><img src="https://img.shields.io/badge/PAIR_CODE-blue" alt="Click Here to Get Pair-Code" width="110"></a>
-<a href="https://dashboard.heroku.com/new?template=https://github.com/Ntee-j01/NTEEJ-MD"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
-<a href="https://replit.com/~"><img src="https://img.shields.io/badge/replit-253c99?style=for-the-badge&logo=replit&logoColor=F26207"></a>
-<a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com/Veran737/VERAN&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=2347082664317&env[MONGODB_URI]&&env[OWNER_NAME]=Veranmaina&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=true&env[DISABLE_PM]=false&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=QUEEN_TENI_CLAIRE ᴛᴇᴄʜ&env[STYLE]=0&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=QUEEN_TENI_CLAIRE&env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Africa/Dodoma&name=Veran737&env[KOYEB_NAME]=VERAN737&env[SUDO]=null&env[THUMB_IMAGE]=https://telegra.ph/file/07983fae1f445449d28ec.jpg"><img src="https://img.shields.io/badge/koyeb-033604?style=for-the-badge&logo=koyeb&logoColor=white"></a>
-<a href="https://youtu.be/3NdJb6_1cJM"><img src="https://img.shields.io/badge/CodeSpace-green?colorA=%23ff000&colorB=%23017e40&style=for-the-badge&logo=git&logoColor=white"></a>
-</p>
-<p align="center">Need help? please create an <a href="https://github.com/Veran737/Queen_Teni_claire">issue</a></p>
+
+## Deploy.
+ [![nima](https://img.shields.io/badge/TENI_CLAIRE_deploy_on_heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&buttcode=1n2i3m4a)](https://heroku.com/deploy?template=https://github.com/darkmakerofc/TENI_CLAIRE)
+  
+[![nima](https://img.shields.io/badge/TENI_CLAIRE_deploy_on_railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white&buttcode=1n2i3m4a)](https://railway.app?referralCode=QUEEN_TENI_CLAIRE)
+   
+[![nima](https://img.shields.io/badge/TENI_CLAIRE_deploy_on_replit-F26207?style=for-the-badge&logo=replit&logoColor=white&buttcode=1n2i3m4a)](https://replit.com/)
+   
+[![nima](https://img.shields.io/badge/TENI_CLAIRE_deploy_on_render-000000?style=for-the-badge&logo=render&logoColor=white&buttcode=1n2i3m4a)](https://docs.render.com/free)
+
+[![nima](https://img.shields.io/badge/TENI_CLAIRE_deploy_on_toystalk-000000?style=for-the-badge&logo=render&logoColor=white&buttcode=1n2i3m4a)](https://toystack.ai)
 
 ## 🔗 Contact Links
 [![NIMAYT](https://img.shields.io/badge/FOLLOW%20TENICLAIRE%20ON%20WHATSAPP-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/ybhee3)</br>
