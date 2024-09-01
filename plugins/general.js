@@ -735,18 +735,18 @@ smd(
   async (_0x45da98) => {
     try {
       let { data: _0x44f98c } = await axios.get(
-        "https://api.github.com/repos/DeeCeeXxx/QUEEN_ANITA-V2d"
+        "https://api.github.com/repos/Veran737/QUEEN_TENI_CLAIRE-V1d"
       );
       let _0x1c73f9 = (
-        "\nQUEEN_ANITA-V2 A simple Mutil Device WhatsApp Bot Created and Managed by *" +
+        "\nQUEEN_TENI_CLAIRE A simple Mutil Device WhatsApp Bot Created and Managed by *" +
         Config.ownername +
         "*. 👑\n\n  *❲❒❳ Stars:* " +
         (_0x44f98c?.stargazers_count || "None (🥲)") +
         " stars\n  *❲❒❳ Forks:* " +
         (_0x44f98c?.forks_count || "1000+") +
-        " forks\n  *❲❒❳ Creator:* David Cyril\n  *❲❒❳ Created:* " +
+        " forks\n  *❲❒❳ Creator:* Veran\n  *❲❒❳ Created:* " +
         (_0x44f98c?.created_at || "2024/06") +
-        "\n  *❲❒❳ Repo:* _https://github.com/DeeCeeXxx/Queen_Anita-V2_\n  *❲❒❳ Scan:* _" +
+        "\n  *❲❒❳ Repo:* _https://github.com/Veran737/Queen_Teni_claire_\n  *❲❒❳ Scan:* _" +
         scan +
         "_\n" +
         (Config.caption ? "\n\n" + Config.caption : "")
@@ -932,7 +932,7 @@ smd(
     alias: ["advertisement"],
     category: "ai",
     desc: "Advertise of your Message, by sending it to provided nmbr range.",
-    use: "234906652xx,Your_text_here",
+    use: "234708266xx,Your_text_here",
     fromMe: true,
     filename: __filename,
   },
@@ -943,7 +943,7 @@ smd(
         return await _0x165087.reply(
           "*Advertise of your Message*\n*by sending it to provided nmbr range.*\n" +
             prefix +
-            "advt 234906652xx,Your_text_here"
+            "advt 234708266xx,Your_text_here"
         );
       }
       const _0x94ba67 = _0x14810d.indexOf(",");
@@ -959,7 +959,7 @@ smd(
         return _0x165087.send(
           "*You did not add x in number.*\n*Ex: " +
             prefix +
-            "advt 234906652xx,Your_Message_here*  \n " +
+            "advt 234708266xx,Your_Message_here*  \n " +
             Config.caption
         );
       }
@@ -1042,7 +1042,7 @@ smd(
     alias: ["recognition", "anonychat"],
     desc: "Send message Annonymously",
     category: "ai",
-    use: "<Hii, David>",
+    use: "<Hii, Veran>",
     filename: __filename,
   },
   async (_0x358984, _0x20693a, { smd: _0x12d243 }) => {
@@ -1052,7 +1052,7 @@ smd(
         return await _0x358984.send(
           "*provide number with msg to send Anonymously.* \n*Example " +
             (prefix + _0x12d243) +
-            " 2349066528353,your_Message*",
+            " 2347082664317,your_Message*",
           {},
           "",
           _0x358984
@@ -1219,7 +1219,7 @@ smd(
     pattern: "aitts",
     desc: "Text to Voice Using Eleven Lab Ai",
     category: "ai",
-    use: "<Hii, David>",
+    use: "<Hii, Veran>",
     filename: __filename,
   },
   async (_0x1a01af, _0x1ac85a) => {
