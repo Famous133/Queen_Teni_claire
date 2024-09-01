@@ -49,6 +49,7 @@ Contact Developer on [telgram](https://t.me/Tickic).
 5.  ***github deploy added***
 
 
+
 ### 1. FORK THIS REPO
 ### 2. GET SESSION ID HERE
 
@@ -89,6 +90,6 @@ If you need help, Join queen teni_claire WhatsApp channel
 ### Credits to:
 `much thanks to
 - [`DeeCeeXxx`](https://github.com/DeeCeeXxx) code encryption
-- - [`AstroFx0011`](https://github.com/AstroFx0011) base of the bot
+- [`AstroFx0011`](https://github.com/AstroFx0011) base of the bot
 
 
