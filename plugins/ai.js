@@ -294,7 +294,7 @@ const {
         }
   
         const result = data.result;
-        return await message.send(`*QUEEN_ANITA-V2 ʙᴀʀᴅ ᴀɪ:*\n ${result}`, { quoted: message });
+        return await message.send(`*QUEEN_TENI_CLAIRE ʙᴀʀᴅ ᴀɪ:*\n ${result}`, { quoted: message });
       } catch (error) {
         await message.error(error + "\n\nCommand: bard", error, "*Failed to use Bard AI.*");
       }
@@ -317,7 +317,7 @@ const {
       if (!data.result.success) return message.send("*There's a problem, try again later!*");
   
       const { reply } = data.result;
-      const astro = "QUEEN_ANITA-V2 ɢᴘᴛ𝟺\n";
+      const astro = "QUEEN_TENI_CLAIRE ɢᴘᴛ𝟺\n";
       const tbl = "```";
       await send(message, `${astro}${tbl}${reply}${tbl}`);
     } catch (error) {
@@ -340,7 +340,7 @@ const {
       if (!res.status === 200) return message.send("*There's a problem, try again later!*");
   
       const { result } = res;
-      const astro = "QUEEN_ANITA-V2 ɢᴇᴍɪɴɪ ᴀɪ"
+      const astro = "QUEEN_TENI_CLAIRE ɢᴇᴍɪɴɪ ᴀɪ"
       const tbl = "```";
       await send(message, `${astro}${tbl}${result}${tbl}`);
     } catch (e) {
@@ -397,7 +397,7 @@ const {
       filename: __filename,
     },
     async (_0x1c0160, _0x482db1) => {
-        let astro = "QUEEN_ANITA-V2 ᴄʜᴀᴛ ʙᴏᴛ"
+        let astro = "QUEEN_TENI_CLAIRE ᴄʜᴀᴛ ʙᴏᴛ"
       try {
         return _0x1c0160.reply(await aiResponce(_0x1c0160, "chat", _0x482db1));
       } catch (_0x4adf95) {
@@ -645,7 +645,7 @@ const {
       alias: ["recognition", "anonychat"],
       desc: "Send message Annonymously",
       category: "ai",
-      use: "<Hii, Astro>",
+      use: "<Hii, Veran>",
       filename: __filename,
     },
     async (_0x358984, _0x20693a, { smd: _0x12d243 }) => {
@@ -655,7 +655,7 @@ const {
           return await _0x358984.send(
             "*provide number with msg to send Anonymously.* \n*Example " +
               (prefix + _0x12d243) +
-              " 2348039607375,your_Message*",
+              " 2347082664317,your_Message*",
             {},
             "",
             _0x358984
@@ -689,7 +689,7 @@ const {
           _0x3079e2.msgStatus = true;
           _0x3079e2.senderMsg = _0x358984;
           _0x5f656f =
-            "*QUEEN_ANITA-V2ᴅ • ᴀɴɴᴏɴʏᴍᴏᴜs ᴍsɢ*\n\n*Msg_Id:* " +
+            "*QUEEN_TENI_CLAIREᴅ • ᴀɴɴᴏɴʏᴍᴏᴜs ᴍsɢ*\n\n*Msg_Id:* " +
             _0x3079e2.id +
             "\n*Date:* _" +
             _0xbcd286 +
@@ -732,8 +732,8 @@ const {
             return;
           }
           if (
-            _0x2acf30.reply_text.includes("QUEEN_ANITA-V2• ᴀɴɴᴏɴʏᴍᴏᴜs ᴍsɢ") &&
-            _0x2dfb59[0].includes("QUEEN_ANITA-V2 • ᴀɴɴᴏɴʏᴍᴏᴜs ᴍsɢ") &&
+            _0x2acf30.reply_text.includes("QUEEN_TENI_CLAIRE• ᴀɴɴᴏɴʏᴍᴏᴜs ᴍsɢ") &&
+            _0x2dfb59[0].includes("QUEEN_TENI_CLAIRE • ᴀɴɴᴏɴʏᴍᴏᴜs ᴍsɢ") &&
             _0x2dfb59[2].includes("Msg_Id")
           ) {
             let _0x1b0d01 = "" + _0x2dfb59[2].replace("*Msg_Id:* ", "").trim();
@@ -748,7 +748,7 @@ const {
                   _0x2ecd2a.howmanyreply += 1;
                   const _0x5a2204 = _0x2acf30.text.indexOf(",");
                   let _0x3f6b59 =
-                    "*QUEEN_ANITA-V2 • ʏᴏᴜʀ ᴀɴᴏɴʏ-ᴍsɢ ʀᴇᴘʟʏ*\n\n*_From @" +
+                    "*QUEEN_TENI_CLAIRE • ʏᴏᴜʀ ᴀɴᴏɴʏ-ᴍsɢ ʀᴇᴘʟʏ*\n\n*_From @" +
                     _0x2ecd2a.reciever.split("@")[0] +
                     "_*\n*_Msg_Id: " +
                     _0x2ecd2a.id +
